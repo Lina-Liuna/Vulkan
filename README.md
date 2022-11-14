@@ -11,6 +11,8 @@
     cmake -C helper.cmake ..
     cmake --build . --parallel
 
+5. Download Vulkan-Tools from https://github.com/KhronosGroup/Vulkan-Tools
+
 5. error happened, running .sh errors is because you need set environment in ./bash_profile
 6. cmake error happened, need set some C++ compile environment in ./zshrc
 7. run ./cube to validate your vulkan environment
