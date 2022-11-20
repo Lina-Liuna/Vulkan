@@ -1,5 +1,5 @@
 # Vulkan
-![img.png](img.png)
+
 1. Download latest VulkanSDK for macOS from https://vulkan.lunarg.com/sdk/home#mac
 2. Install
 3. Download VulkanTools from https://github.com/LunarG/VulkanTools
