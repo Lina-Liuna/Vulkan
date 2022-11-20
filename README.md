@@ -18,3 +18,18 @@
 7. cmake error happened, need set some C++ compile environment in ./zshrc
 8. run ./cube to validate your vulkan environment
 
+How to run Excellent Vulkan Examples from git@github.com:SaschaWillems/Vulkan.git:
+1. git clone
+2. git submodule init
+3. git submodule update
+4. python download_assets.py
+5. git clone git@github.com:KhronosGroup/MoltenVK.git
+6. cd MoltenVK
+7. ./fetchDependencies --macos
+8. make macos
+9. cd macos
+10. cd xcode
+11. rm MoltenVK
+12. ln -s /Users/linaliu/code/Sascha/MoltenVK/MoltenVK
+13. open xcode project, press run
+14. Amazing demo come out!
