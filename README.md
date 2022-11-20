@@ -27,9 +27,10 @@ How to run Excellent Vulkan Examples from git@github.com:SaschaWillems/Vulkan.gi
 6. cd MoltenVK
 7. ./fetchDependencies --macos
 8. make macos
-9. cd macos
-10. cd xcode
-11. rm MoltenVK
-12. ln -s /Users/linaliu/code/Sascha/MoltenVK/MoltenVK
-13. open xcode project, press run
-14. Amazing demo come out!
+9. cd xcode
+10. prepare to copy MoltenVK which contained dylib to vulkan examples
+11. cd macos
+12. rm MoltenVK
+13. ln -s /Users/linaliu/code/Sascha/MoltenVK/MoltenVK
+14. open xcode project, press run
+15. Amazing demo come out!
