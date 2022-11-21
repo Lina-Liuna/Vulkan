@@ -1,6 +1,6 @@
 # Vulkan
 
-![Awesome Vulkan ](Succeed Running Vulkan Examples on my macOS.jpg)
+![Awesome Vulkan ](./Succeed Running Vulkan Examples on my macOS.jpg)
 
 1. Download latest VulkanSDK for macOS from https://vulkan.lunarg.com/sdk/home#mac
 2. Install
