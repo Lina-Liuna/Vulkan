@@ -52,7 +52,8 @@
 7. make -j4, why not just make -j, because you compute may godie!!
 8. build done!
 9. Run automatically: python3 /Users/linaliu/code/Sascha/VK-GL-CTS/external/vulkancts/scripts/build_mustpass.py
-10. cd /Users/linaliu/code/Sascha/VK-GL-CTS/ 
-11. Run single Vulkan-CTS test case: ./deqp-vk --deqp-case=dEQP-VK.info.device 
+10. cd /Users/linaliu/code/Sascha/VK-GL-CTS/
+11. cd /Users/linaliu/code/Sascha/VK-GL-CTS/build/external/vulkancts/modules/vulkan/
+12. Run single Vulkan-CTS test case: ./deqp-vk --deqp-case=dEQP-VK.info.device 
 ![This is my png](https://github.com/Lina-Liuna/Vulkan/raw/main/examples_results_screenshot/Vulkan-CTS-100_build.jpg)
 ![This is my png](https://github.com/Lina-Liuna/Vulkan/raw/main/examples_results_screenshot/Run_SingleTestCase_VulkanCTS.jpg)
