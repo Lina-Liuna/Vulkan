@@ -1,0 +1,11 @@
+1. const &
+You're just passing pointers around, no copying, no moving, everyone's happy. C takes a const& because it doesn't store the string. It simply uses it.
+
+2.
+Allow allocation of non-coherent memory if coherency is not required.
+
+Use MemoryRequirement instead of VkMemoryProperty flags as allocation
+requirement. This allows specifying memory that is allowed to be
+coherent but it is not required. This is not possible with the vk mask
+since in vulkan non-coherence (instead of coherence) is a feature
+of the memory.
