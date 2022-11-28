@@ -9,3 +9,9 @@ requirement. This allows specifying memory that is allowed to be
 coherent but it is not required. This is not possible with the vk mask
 since in vulkan non-coherence (instead of coherence) is a feature
 of the memory.
+
+3. renderpass does not set proper usage flags on color attachment i…
+…mages
+https://github.com/KhronosGroup/VK-GL-CTS/commit/9cfe9b4b870704f81620ec1e5c53d3c0144ad8f7
+
+4. 
