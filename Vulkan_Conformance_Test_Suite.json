@@ -1,0 +1,116 @@
+{
+  "Conformance_Test": [
+    "conformance test is a software testing technique used to certify that the software system ",
+    "complies  with the standards and regulations as defined by specification.",
+    "conformance test is used to determine how a system under test confirms to meet the",
+    "specification standard."
+  ],
+  "Comformance Test Includes:": [
+    "1. Performance test",
+    "2. functions test",
+    "3. Robustness test",
+    "4. Interoperability test",
+    "5. Behavior of system test"
+  ],
+  "Why do we need Conformance Testing?": [
+    "1. To check for the system's requirements fulfillment.",
+    "2. To check the development, design and evaluation as per specification."
+  ],
+  "What do we need to test?": [
+    "the standards/scope of specifications"
+  ],
+  "when to perform Conformance Testing?": [
+    "when the specification require the consistency, completeness and correction with the code."
+  ],
+  "How to  perform Conformance Testing?": [
+    "1. Analyzing requirements specification",
+    "2. Preparing test plan, selecting test tools and test suite",
+    "3. Preparing test cases and its purpose, design testing procedures",
+    "4. Create documentation for prepared test designs",
+    "5. Check necessary validations",
+    "6. Adapting relevant testing policies and certifications"
+  ],
+  "What the purpose of The Conformance Testing?": [
+    "1. ensure efficiency",
+    "2. ensure performance",
+    "3. avoid future risks for a software application"
+  ],
+  "Advantages of Conformance Testing": [
+    "1. Assure the proper implementation of specifications",
+    "2. Assures portability and interoperability",
+    "3. Provides appropriate utilization of standards",
+    "4. Make sure that interfaces and funcitons are working as expected."
+  ],
+  "Disadvantages of Conformance Testing" : [
+    "1. tested with suitable methodology",
+    "2. Categorizing specifications",
+    "3. predefining values"
+  ],
+  "Conformance Testing Summary": [
+    "1. Conformance testing used to check whether the system meet the specification requirement",
+    "2. Test tools and Test Methodology and Test program are critical for Conformance testing",
+    "3. Assuance of Standard  utilization and interoperability"
+  ],
+  "Vulkan Conformance Testing": [
+    "1. Vulkan Conformance Testing ensure whether the code APIs are meet the standards",
+    "2. Vulkan Conformance Testing ensure whether the code APIs will function correctly even in the corners",
+    "3. Comprehensive conformance testing is required when release new features"
+  ],
+  "Task sub-group(TSG)" : [
+    "1. TSG is accountable of TSG operations and deliverables",
+    "3. TSG meet reqularly",
+    "4. TSG meet regularly to discuss progress and issues",
+    "5. TSG has a defined/rigorous development process which uses issue trackers,",
+        "code reviews, continuous integration"
+  ],
+  "TSG(Task Sub Group) Chair Assist RESPONSIBILITIES": [
+    "1.Assisting TSG chair: assist him to ensure timely deliveries",
+    "2. Ensure the issue are being updated",
+    "3. Ensure the status is being recorded",
+    "4. Code reviews are happening",
+    "5. Changes are being merged",
+    "6. Support TSG process and ensure the process being followed"
+  ],
+  "Maintaining Vulkan CTS Private/Public repositories RESPONSIBILITIES": [
+    "1. Vulkan CTS has a private repository",
+    "2. Vulkan CTS will mirror private repository to public repository",
+    "3. Ensure both private/public repository are up to date",
+    "4. Ensure permissions are assigned correctly",
+    "5. Changes are correctly propagated through release branches",
+    "6. Branching strategy is being followed",
+    "7. Ensure Khronos Gerrit Server is being regularly upgraded",
+    "8. Request Khronos webmaster to regular upgrade Gerrit",
+    "9. Administrator rights for khronos Gerrit",
+    "10. Maintainer rights for VK-GL-CTS repository on Github"
+
+  ],
+  "Maintaining CTS tools and other repositories": [
+    "1. TSG has CTS tools repositories(public/private)",
+    "2. TSG CTS tools includes integration scripts and conformance submission verification scripts",
+    "3. Maintain the tools repositories and kept up to date"
+  ],
+  "Maintaining CTS continuous integration(CI)": [
+    "1. Monitor TSG Jenkins and Docker instances to make sure no issues preventing CI from running",
+    "2. CTS CI(Continuous integration) ensure CTS can be built for a number of Linux distributions",
+    "3. CTS CI used to run automated conformance submission verification.",
+    "4. Extend CTS CI to execute other automatable tasks",
+    "5. Ensure Jenkins/Jenkins plugins/Docker being reqularly upgraded.",
+    "6. Administrator rights for Jenkins/Docker instances"
+  ],
+  "Maintaining CTS documentation": [
+    "1. TSG maintain public/private wikis/README written in Markdown",
+    "2. Wikis/README written by Markdown contain build instructions/description of internal process, meeting",
+    "3. Make sure to keep these doc up to date"
+  ],
+  "Managing CTS Releases and release schedule": [
+    "1. TSG publishes one major Vulkan CTS release every 3 months",
+    "2. TSG publish a major release for each new API version",
+    "3. TSG deprecate/withdraw certain erleases according to the agreed policy",
+    "4. Ensure all above 3 schedules happens on time"
+  ],
+  "Managing Contractors": [
+    "1. Khronos has a team of external software developers",
+    "2. Atten Weekly calls with developer team, review progress and reports,",
+        "assign tasks, resolve blocking issues, and interact with the team using email/khronos chat"
+  ]
+}
