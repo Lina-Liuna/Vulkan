@@ -1,8 +1,8 @@
 # Vulkan
 ##### Video games like Anime and Manga Games, it's more exciting to get the technical knowledge about how to implement these games through graphics
 
-![This is my png](https://github.com/Lina-Liuna/Vulkan/raw/main/Succeed%20Running%20Vulkan%20Examples%20on%20my%20macOS.jpg)
 
+image:Vulkan_Example.jpg[Vulkan_Example,100,,link="https://github.com/Lina-Liuna/Vulkan/blob/main/Vulkan_Example.jpg"]
 ### How to run Vulkan-Tools(cube/VulkanInfo)on macOS?
 #### To check if you platform support Vulkan
 1. Download latest VulkanSDK for macOS from https://vulkan.lunarg.com/sdk/home#mac
