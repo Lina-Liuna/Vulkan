@@ -1,4 +1,5 @@
 = Vulkan
+image:examples_results_screenshot/Vulkan_Terminology_Architecture.png[Vulkan_Terminology_Architecture,1000,,link="https://github.com/Lina-Liuna/Vulkan/blob/main/examples_results_screenshot/Vulkan_Terminology_Architecture.png"]
 
 Video games like Anime and Manga Games, it's more exciting to get the technical knowledge about how to implement these games through graphics
 
